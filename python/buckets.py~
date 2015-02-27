@@ -73,4 +73,4 @@ class bucketPlayer :
 
 s=manager()
 w=bucketPlayer(s)
-w.playGame(11,8,4)
+w.playGame(11,7,5)
